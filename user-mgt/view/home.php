@@ -12,6 +12,8 @@
 </head>
 <body>
     <h1> Welcome Home!</h1>
+    <a href="userList.php"> View Users  </a> |
+    <a href="addUser.php"> Add User  </a> |
     <a href="../controller/logout.php"> Logout  </a>
 </body>
 </html>
